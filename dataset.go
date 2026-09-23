@@ -14,7 +14,7 @@ import (
 	"strings"
 )
 
-const DatasetDir = "../BlowLive-Dataset_Without_Doppler_Shift"
+const DatasetDir = "Blow_Biometric_Binarize_Data"
 
 // k-th nearest neighbor / p-th largest parameters
 const (
